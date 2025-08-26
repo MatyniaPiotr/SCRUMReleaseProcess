@@ -1,1 +1,2 @@
 # This file contain a source of code for adding a feature - new opening screen.
+- DEV_01 ran local tests on this feature.

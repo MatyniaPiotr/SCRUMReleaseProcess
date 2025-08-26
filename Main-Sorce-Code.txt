@@ -1,0 +1,1 @@
+# This file, contain a main source of code for the customer project.

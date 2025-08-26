@@ -1,0 +1,1 @@
+# This file contain a source of code for adding a feature - new opening screen.

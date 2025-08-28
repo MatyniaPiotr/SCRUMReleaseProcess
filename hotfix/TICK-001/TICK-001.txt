@@ -1,1 +1,5 @@
 # This file contain a code, that is hotfixed.
+- Tested on DEV_01
+- Tested on TEAM_DEV_01
+- Tested on SIT
+- Tested on UAT
